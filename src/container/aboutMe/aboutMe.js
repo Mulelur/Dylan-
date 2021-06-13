@@ -15,7 +15,7 @@ export default function AboutMeContainer() {
         <AboutMe.Column>
           <AboutMe.Heading2>About Me</AboutMe.Heading2>
           <AboutMe.Heading4>
-            My name is Mettalurgical engineering.
+            My name is NGOMPE Lele Dylan.
             <AboutMe.Text>
               I was born in the year 1997 on the 14th of June.
             </AboutMe.Text>
